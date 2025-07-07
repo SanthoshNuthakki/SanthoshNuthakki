@@ -63,6 +63,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=SanthoshNuthakki&icon=5&color=6" alt="Visitor Count"/>
-</p>
+
