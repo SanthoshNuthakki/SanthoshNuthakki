@@ -57,9 +57,10 @@
 
 ## 🧭 Current Focus
 
-- 🔁 Learning GitOps tools (ArgoCD, Flux)
-- 🔐 Practicing DevSecOps workflows
-- 🏗️ Building reusable IaC modules
+- 🧠 Developing AI-enhanced DevOps tools:
+- 📈 CI/CD Pipeline Optimizer — Train models to analyze pipeline data, predict build failures, and suggest optimizations
+- 🛠️ Self-Healing Infrastructure — Use AI to detect and automatically recover failed Kubernetes/Docker containers
+- 📊 Predictive Auto-Scaling — Build models to forecast traffic/load and auto-scale cloud resources
 
 ---
 
