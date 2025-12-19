@@ -24,7 +24,8 @@
 
 - 📧 Email: [Santhosh.nuthakki.1@gmail.com](mailto:Santhosh.nuthakki.1@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/santhosh-nuthakki-a4343121b](https://www.linkedin.com/in/santhosh-nuthakki-a4343121b)  
-- 🧑‍💻 GitHub: [github.com/SanthoshNuthakki](https://github.com/SanthoshNuthakki)
+- 🧑‍💻 GitHub: [github.com/SanthoshNuthakki](https://github.com/SanthoshNuthakki)  
+- 🌐 Portfolio: [lucent-gumdrop-495ebc.netlify.app](https://lucent-gumdrop-495ebc.netlify.app/)
 
 ---
 
