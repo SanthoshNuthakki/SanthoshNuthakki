@@ -5,7 +5,7 @@
 
 ## 💫 About Me
 
-🔧 I'm a **DevOps Engineer** with 3+ years of IT experience, passionate about automation, scalability, and building cloud-native solutions. I specialize in:
+🔧 I'm a **Software Engineer-SD** with 4+ years of IT experience, passionate about automation, scalability, and building cloud-native solutions. I specialize in:
 
 - ⚙️ **CI/CD Pipelines** – Jenkins, GitHub Actions  
 - 📦 **IaC** – Terraform, Ansible  
