@@ -6,7 +6,7 @@
 
 ## 💫 About Me
 
-I am a **Software Engineer (SD)** with **4+ years of IT experience**, including **3+ years in DevOps, Cloud Infrastructure, and Site Reliability Engineering (SRE)**. I specialize in building, deploying, and supporting **highly available, production-grade systems** on **AWS and Kubernetes**, with a strong focus on **automation, reliability, and observability**.
+I am a **Software Engineer (SD)** with **4+ years of experience** in DevOps, Cloud Infrastructure, and Site Reliability Engineering (SRE)**. I specialize in building, deploying, and supporting **highly available, production-grade systems** on **AWS and Kubernetes**, with a strong focus on **automation, reliability, and observability**.
 
 I have hands-on experience in CI/CD automation, infrastructure provisioning, monitoring, logging, and incident management, and I actively contribute to improving deployment reliability and system stability in production environments.
 
