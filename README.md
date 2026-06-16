@@ -90,7 +90,6 @@ I have hands-on experience in CI/CD automation, infrastructure provisioning, mon
 - 📧 Email: Santhosh.nuthakki.1@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/santhosh-nuthakki-a4343121b  
 - 🧑‍💻 GitHub: https://github.com/SanthoshNuthakki  
-- 🌐 Portfolio: https://lucent-gumdrop-495ebc.netlify.app/
 
 ---
 
